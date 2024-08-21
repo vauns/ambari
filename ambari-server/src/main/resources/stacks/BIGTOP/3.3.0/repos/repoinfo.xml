@@ -30,4 +30,11 @@
       <reponame>bigtop</reponame>
     </repo>
   </os>
+  <os family="bigcloud enterprise linux21">
+    <repo>
+      <baseurl>http://repos.bigtop.apache.org/release/3.3.0/openeuler/22.03/$basearch</baseurl>
+      <repoid>BIGTOP-3.2.0</repoid>
+      <reponame>bigtop</reponame>
+    </repo>
+  </os>
 </reposinfo>

@@ -56,6 +56,7 @@
       <xs:enumeration value="redhat8" />
       <xs:enumeration value="redhat-ppc6" />
       <xs:enumeration value="redhat-ppc7" />
+      <xs:enumeration value="bigcloud enterprise linux21" />
       <xs:enumeration value="debian6" />
       <xs:enumeration value="debian7" />
       <xs:enumeration value="debian9" />

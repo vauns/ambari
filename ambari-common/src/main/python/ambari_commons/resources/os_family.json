@@ -33,6 +33,15 @@
           7
         ]
       },
+      "bigcloud enterprise linux": {
+        "extends" : "redhat",
+        "distro": [
+          "bigcloud enterprise linux"
+        ],
+        "versions": [
+          21
+        ]
+      },
       "amazonlinux": {
         "extends" : "redhat",
         "distro": [
